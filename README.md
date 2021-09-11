@@ -1,5 +1,6 @@
 # WeatherMap_V2
 ![](weathermap_capture.gif)
+## Overview:
 Displays an 8 day weather forecast on ANY location on Earth. You can drag the pin on your desired lication, or search for a location in the search box. Single page with a scrollable bar of forecasts. Added Mapbox functionality for auto completion of results
 when typing in the search bar.
 ## Features:
